@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustHung
 - 👀 I’m interested in Program
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 📫 Please reach me by Gmail: tanhungn137@gmail.com 
 
 <!---
